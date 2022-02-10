@@ -1,0 +1,10 @@
+C:\Users\Juan\source\repos\Ellko91\SocialBook\SocialBook.Domain\bin\Debug\SocialBook.Domain.dll
+C:\Users\Juan\source\repos\Ellko91\SocialBook\SocialBook.Domain\bin\Debug\SocialBook.Domain.pdb
+C:\Users\Juan\source\repos\Ellko91\SocialBook\SocialBook.Domain\bin\Debug\SocialBook.Infrastructure.dll
+C:\Users\Juan\source\repos\Ellko91\SocialBook\SocialBook.Domain\bin\Debug\SocialBook.Infrastructure.pdb
+C:\Users\Juan\source\repos\Ellko91\SocialBook\SocialBook.Domain\obj\Debug\SocialBook.Domain.csprojAssemblyReference.cache
+C:\Users\Juan\source\repos\Ellko91\SocialBook\SocialBook.Domain\obj\Debug\SocialBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\Ellko91\SocialBook\SocialBook.Domain\obj\Debug\SocialBook.Domain.csproj.CopyComplete
+C:\Users\Juan\source\repos\Ellko91\SocialBook\SocialBook.Domain\obj\Debug\SocialBook.Domain.dll
+C:\Users\Juan\source\repos\Ellko91\SocialBook\SocialBook.Domain\obj\Debug\SocialBook.Domain.pdb
+C:\Users\Juan\source\repos\Ellko91\SocialBook\SocialBook.Domain\bin\Debug\SocialBook.Domain.dll.config
